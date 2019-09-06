@@ -5,10 +5,10 @@ and open the template in the editor.
 */
 /* 
     Created on : Aug 21, 2019, 2:29:51 PM
-    Author     : URK17CS254
+    Author     : URK17CS259
 */
 body{
-    background-image: url('download.jpg');
+    background-image: url('images.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
